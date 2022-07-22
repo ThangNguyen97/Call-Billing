@@ -1,0 +1,14 @@
+2022-07-22 12:57:39,196 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:6868
+ * Running on http://172.29.5.31:6868 (Press CTRL+C to quit)
+2022-07-22 12:57:52,564 INFO werkzeug Thread-1 : 127.0.0.1 - - [22/Jul/2022 12:57:52] "GET /mobile/Vin/billing HTTP/1.1" 200 -
+2022-07-22 12:57:52,567 INFO werkzeug Thread-2 : 127.0.0.1 - - [22/Jul/2022 12:57:52] "[31m[1mGET /mobile/VinBigData/billing HTTP/1.1[0m" 400 -
+2022-07-22 12:57:52,570 INFO werkzeug Thread-3 : 127.0.0.1 - - [22/Jul/2022 12:57:52] "PUT /mobile/Vin/call HTTP/1.1" 200 -
+2022-07-22 12:57:52,572 INFO werkzeug Thread-4 : 127.0.0.1 - - [22/Jul/2022 12:57:52] "[31m[1mPUT /mobile/Vin/call HTTP/1.1[0m" 400 -
+2022-07-22 12:57:52,574 INFO werkzeug Thread-5 : 127.0.0.1 - - [22/Jul/2022 12:57:52] "[31m[1mPUT /mobile/VinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVinVin/call HTTP/1.1[0m" 400 -
+2022-07-22 13:46:13,402 INFO werkzeug MainThread :  * Running on http://0.0.0.0:6868/ (Press CTRL+C to quit)
+2022-07-22 13:47:12,829 INFO werkzeug MainThread :  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:6868
+ * Running on http://172.29.5.156:6868 (Press CTRL+C to quit)
