@@ -2,7 +2,7 @@
 
 ## Technology
 * Python 3.7
-* Fask
+* Flask
 * SQLite
 * RESTful API
 
