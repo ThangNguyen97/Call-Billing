@@ -6,7 +6,7 @@
 * SQLite
 * RESTful API
 
-## Installion 
+## Installation 
  - Clone this repository and enter it:
    ```Shell
    git clone https://github.com/ThangNguyen97/Call-Billing.git
